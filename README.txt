@@ -6,7 +6,7 @@ ShiftGrid automatic trading system welcomes you!
 ***This version fixes an error that occurs on some exchanges when
 trading coins with a price of millionths or less of a dollar.
 At the same time, it is sometimes impossible to place an order for too precise a number
-of tokens (for example, you cannot buy 1298453b.7 PEPE, but 500000.0 is possible). Now
+of tokens (for example, you cannot buy 12984536.7 PEPE, but 500000.0 is possible). Now
 the initiating transactions (purchase/sale for a given percentage of the deposit)
 are made for a WHOLE number of lots in the volume closest to the calculated
 one (for example, the system will buy not 15306703.8 coins, but 15000000.0 coins with a lot 
@@ -198,7 +198,7 @@ of an unidentified application blah blah blah", click "More details" and "run".
 We do not keep viruses :) In general, it is best to allocate a separate computer with a clean
 operating system for the robot. For example, our bots work on a machine with a dual-core Atlas, 
 left over from the mining farm, you can buy some cheap
-nettopchik, processor power does not matter much.
+nettop, processor power does not matter much.
 
 
 The setup of the Shift Grid automatic trading system has been completed. If there are no errors,
